@@ -1,0 +1,316 @@
+{
+  "distribution": {
+    "0": "1/2",
+    "1": "1/4",
+    "2": "1/8",
+    "3": "1/8"
+  },
+  "H": 1.75,
+  "rate": 2.5,
+  "q": 7,
+  "epsilon": 0.001,
+  "n_min": 4,
+  "eventually_tends_to_zero": true,
+  "rows": [
+    {
+      "n": 1,
+      "ell": 0,
+      "Pe": 0.5,
+      "Pe_fraction": "1/2"
+    },
+    {
+      "n": 2,
+      "ell": 1,
+      "Pe": 0.25,
+      "Pe_fraction": "1/4"
+    },
+    {
+      "n": 3,
+      "ell": 2,
+      "Pe": 0.04296875,
+      "Pe_fraction": "11/256"
+    },
+    {
+      "n": 4,
+      "ell": 3,
+      "Pe": 0.0,
+      "Pe_fraction": "0"
+    },
+    {
+      "n": 5,
+      "ell": 4,
+      "Pe": 0.0,
+      "Pe_fraction": "0"
+    },
+    {
+      "n": 6,
+      "ell": 5,
+      "Pe": 0.0,
+      "Pe_fraction": "0"
+    },
+    {
+      "n": 7,
+      "ell": 6,
+      "Pe": 0.0,
+      "Pe_fraction": "0"
+    },
+    {
+      "n": 8,
+      "ell": 7,
+      "Pe": 0.0,
+      "Pe_fraction": "0"
+    },
+    {
+      "n": 9,
+      "ell": 8,
+      "Pe": 0.0,
+      "Pe_fraction": "0"
+    },
+    {
+      "n": 10,
+      "ell": 8,
+      "Pe": 0.0,
+      "Pe_fraction": "0"
+    },
+    {
+      "n": 11,
+      "ell": 9,
+      "Pe": 0.0,
+      "Pe_fraction": "0"
+    },
+    {
+      "n": 12,
+      "ell": 10,
+      "Pe": 0.0,
+      "Pe_fraction": "0"
+    },
+    {
+      "n": 13,
+      "ell": 11,
+      "Pe": 0.0,
+      "Pe_fraction": "0"
+    },
+    {
+      "n": 14,
+      "ell": 12,
+      "Pe": 0.0,
+      "Pe_fraction": "0"
+    },
+    {
+      "n": 15,
+      "ell": 13,
+      "Pe": 0.0,
+      "Pe_fraction": "0"
+    },
+    {
+      "n": 16,
+      "ell": 14,
+      "Pe": 0.0,
+      "Pe_fraction": "0"
+    },
+    {
+      "n": 17,
+      "ell": 15,
+      "Pe": 0.0,
+      "Pe_fraction": "0"
+    },
+    {
+      "n": 18,
+      "ell": 16,
+      "Pe": 0.0,
+      "Pe_fraction": "0"
+    },
+    {
+      "n": 19,
+      "ell": 16,
+      "Pe": 0.0,
+      "Pe_fraction": "0"
+    },
+    {
+      "n": 20,
+      "ell": 17,
+      "Pe": 0.0,
+      "Pe_fraction": "0"
+    },
+    {
+      "n": 21,
+      "ell": 18,
+      "Pe": 0.0,
+      "Pe_fraction": "0"
+    },
+    {
+      "n": 22,
+      "ell": 19,
+      "Pe": 0.0,
+      "Pe_fraction": "0"
+    },
+    {
+      "n": 23,
+      "ell": 20,
+      "Pe": 0.0,
+      "Pe_fraction": "0"
+    },
+    {
+      "n": 24,
+      "ell": 21,
+      "Pe": 0.0,
+      "Pe_fraction": "0"
+    },
+    {
+      "n": 25,
+      "ell": 22,
+      "Pe": 0.0,
+      "Pe_fraction": "0"
+    },
+    {
+      "n": 26,
+      "ell": 23,
+      "Pe": 0.0,
+      "Pe_fraction": "0"
+    },
+    {
+      "n": 27,
+      "ell": 24,
+      "Pe": 0.0,
+      "Pe_fraction": "0"
+    },
+    {
+      "n": 28,
+      "ell": 24,
+      "Pe": 0.0,
+      "Pe_fraction": "0"
+    },
+    {
+      "n": 29,
+      "ell": 25,
+      "Pe": 0.0,
+      "Pe_fraction": "0"
+    },
+    {
+      "n": 30,
+      "ell": 26,
+      "Pe": 0.0,
+      "Pe_fraction": "0"
+    },
+    {
+      "n": 31,
+      "ell": 27,
+      "Pe": 0.0,
+      "Pe_fraction": "0"
+    },
+    {
+      "n": 32,
+      "ell": 28,
+      "Pe": 0.0,
+      "Pe_fraction": "0"
+    },
+    {
+      "n": 33,
+      "ell": 29,
+      "Pe": 0.0,
+      "Pe_fraction": "0"
+    },
+    {
+      "n": 34,
+      "ell": 30,
+      "Pe": 0.0,
+      "Pe_fraction": "0"
+    },
+    {
+      "n": 35,
+      "ell": 31,
+      "Pe": 0.0,
+      "Pe_fraction": "0"
+    },
+    {
+      "n": 36,
+      "ell": 32,
+      "Pe": 0.0,
+      "Pe_fraction": "0"
+    },
+    {
+      "n": 37,
+      "ell": 32,
+      "Pe": 0.0,
+      "Pe_fraction": "0"
+    },
+    {
+      "n": 38,
+      "ell": 33,
+      "Pe": 0.0,
+      "Pe_fraction": "0"
+    },
+    {
+      "n": 39,
+      "ell": 34,
+      "Pe": 0.0,
+      "Pe_fraction": "0"
+    },
+    {
+      "n": 40,
+      "ell": 35,
+      "Pe": 0.0,
+      "Pe_fraction": "0"
+    },
+    {
+      "n": 41,
+      "ell": 36,
+      "Pe": 0.0,
+      "Pe_fraction": "0"
+    },
+    {
+      "n": 42,
+      "ell": 37,
+      "Pe": 0.0,
+      "Pe_fraction": "0"
+    },
+    {
+      "n": 43,
+      "ell": 38,
+      "Pe": 0.0,
+      "Pe_fraction": "0"
+    },
+    {
+      "n": 44,
+      "ell": 39,
+      "Pe": 0.0,
+      "Pe_fraction": "0"
+    },
+    {
+      "n": 45,
+      "ell": 40,
+      "Pe": 0.0,
+      "Pe_fraction": "0"
+    },
+    {
+      "n": 46,
+      "ell": 40,
+      "Pe": 0.0,
+      "Pe_fraction": "0"
+    },
+    {
+      "n": 47,
+      "ell": 41,
+      "Pe": 0.0,
+      "Pe_fraction": "0"
+    },
+    {
+      "n": 48,
+      "ell": 42,
+      "Pe": 0.0,
+      "Pe_fraction": "0"
+    },
+    {
+      "n": 49,
+      "ell": 43,
+      "Pe": 0.0,
+      "Pe_fraction": "0"
+    },
+    {
+      "n": 50,
+      "ell": 44,
+      "Pe": 0.0,
+      "Pe_fraction": "0"
+    }
+  ]
+}
